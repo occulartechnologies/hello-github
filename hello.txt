@@ -1,1 +1,3 @@
 Hello GitHub from Windows Git Bash!
+something
+Line from feature branch
